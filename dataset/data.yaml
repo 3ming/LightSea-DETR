@@ -1,0 +1,11 @@
+# dataset path
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+
+# number of classes
+nc: 15
+
+# class names
+names: [ "Trimeresurus stejnegeri","Ahaetulla prasina","Ptyas mucosa","Bungarus multicinctus","Naja naja","Psammodynastes pulverulentus","Protobothrops mucrosquamatus","Lycodon rufozonatus","Dendrelaphis pictus","Rhabdophis subminiatus","Indotyphlops braminus","Daboia russelii","Tropidolaemus wagleri","Naja atra","Chrysopelea ornata"]
